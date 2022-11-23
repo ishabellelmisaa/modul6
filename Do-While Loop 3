@@ -1,0 +1,5 @@
+//one loop
+// statement is executed once
+do
+ System.out.println(“hello”);
+while (false); 
